@@ -1,4 +1,4 @@
 # diff
-diff練習
-1st
 
+diff 練習
+3st 変更
